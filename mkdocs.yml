@@ -1,10 +1,10 @@
-site_name: Fucking Code # 站点名称
-site_url: https://Xiaokang2022.github.io/Fucking-Code/ # 站点链接
-repo_url: https://github.com/Xiaokang2022/Fucking-Code/ # 仓库地址
-repo_name: Xiaokang2022/Fucking-Code # 仓库名称
+site_name: tkinter-macOS # 站点名称
+site_url: https://CodeCrafter-TL.github.io/tkinter-macOS/ # 站点链接
+repo_url: https://github.com/CodeCrafter-TL/tkinter-macOS/ # 仓库地址
+repo_name: CodeCrafter-TL/tkinter-macOS # 仓库名称
 edit_uri: edit/main/docs/ # 编辑地址（页面会出现编辑按钮）
-site_description: Everything about the fucking code. # 站点描述
-site_author: Xiaokang2022 # 站点作者
+site_description: A macOS theme of tkinter. # 站点描述
+site_author: CodeCrafter-TL # 站点作者
 copyright: Copyright &copy; 2024 小康2022 # 版权信息（会出现在左下角）
 remote_branch: gh-pages # GitHub Pages 分支名称（默认值）
 remote_name: origin # 远程分支的名称（默认值）
@@ -249,73 +249,4 @@ watch: # serve 实时预览模式下检测更改的目录或文件
 
 nav: # 导航栏
   - 主页:
-      - 开始: index.md
-      - 使用指南: Guide.md
-      - 关于本站: About.md
-      - 贡献指南: Contributing.md
-      - 更新日志: ChangeLog.md
-      - 项目许可证: LICENSE.md
-      - 建议区: Suggest.md
-
-  - 数据结构:
-      - 数据结构简介: Data Structure/index.md
-
-  - 算法:
-      - 算法简介: Algorithm/index.md
-      - 排序:
-          - 排序简介: Algorithm/sort/index.md
-          - 直接插入排序: Algorithm/sort/straight_insertion_sort.md
-          - 二分插入排序: Algorithm/sort/binary_insertion_sort.md
-          - 分组插入排序（希尔排序）: Algorithm/sort/shell_sort.md
-          - 直接选择排序: Algorithm/sort/straight_selection_sort.md
-          - 树形选择排序（锦标赛排序）: Algorithm/sort/tournament_sort.md
-          - 简单交换排序（冒泡排序）: Algorithm/sort/bubble_sort.md
-          - 标记交换排序（改进的冒泡排序）: Algorithm/sort/improved_bubble_sort.md
-          - 分区交换排序（快速排序）: Algorithm/sort/quick_sort.md
-          - 随机基准分区交换排序（改进的快速排序）: Algorithm/sort/random_quick_sort.md
-          - 三数取中分区交换排序（改进的快速排序）: Algorithm/sort/improved_quick_sort.md
-          - 归并排序: Algorithm/sort/merge_sort.md
-          - 计数排序: Algorithm/sort/counting_sort.md
-          - 基数排序: Algorithm/sort/radix_sort.md
-          - 堆排序: Algorithm/sort/heap_sort.md
-          - 桶排序: Algorithm/sort/bucket_sort.md
-          - tim_sort: Algorithm/sort/tim_sort.md
-          - pdq_sort: Algorithm/sort/pdq_sort.md
-      - 查找:
-          - 查找简介: Algorithm/search/index.md
-          - 顺序查找: Algorithm/search/seq_search.md
-          - 分块查找（改进的顺序查找）: Algorithm/search/block_search.md
-          - 二分查找: Algorithm/search/binary_search.md
-          - 散列查找: Algorithm/search/hash_search.md
-      # - 预处理:
-      #     - 前缀和:
-      #     - 差分:
-      # - 快速 IO:
-      #     - 输入:
-      #     - 输出:
-
-  - 数值计算:
-      - 数值计算简介: Numerical Calculation/index.md
-  - 设计模式:
-      - 设计模式简介: Design Pattern/index.md
-  - 数据库:
-      - 数据库简介: Database/index.md
-  - C:
-      - C 简介: C/index.md
-  - C++:
-      - C++ 简介: C++/index.md
-  - Python:
-      - Python 简介: Python/index.md
-      - 搭建开发环境: Python/01.md
-  - Java:
-      - Java 简介: Java/index.md
-  - C#:
-      - C# 简介: C#/index.md
-  - TypeScript:
-      - TypeScript 简介: TypeScript_/index.md
-  - HTML:
-      - HTML 简介: HTML_/index.md
-  - CSS:
-      - CSS 简介: CSS_/index.md
-  - Markdown:
-      - Markdown 简介: Markdown/index.md
+    - 简介 / Profile: index.md
